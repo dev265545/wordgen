@@ -193,14 +193,14 @@ export default function Home() {
       </h1>
       <div className="p-10">
         <span className="block text-md text-gray-600 leading-tight">
-          Certain Criteria's for templates
+          Certain Criteria&apos;s for templates
           <ul>
             <li>
               The placeholder should have a start delimiter as &lt; and end
               delimiter as &gt; For Example - &lt;name&gt;
             </li>
             <li className="flex flex-col">
-              The placeholders should not have a space{" "}
+              The placeholder should not have a space{" "}
               <span> ✖ &lt;first name&gt;</span>{" "}
               <span>✔ &lt;first_name&gt;</span>
             </li>
