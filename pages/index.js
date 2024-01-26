@@ -200,7 +200,7 @@ export default function Home() {
               delimiter as &gt; For Example - &lt;name&gt;
             </li>
             <li className="flex flex-col">
-              The placeholder's should not have a space{" "}
+              The placeholders should not have a space{" "}
               <span> ✖ &lt;first name&gt;</span>{" "}
               <span>✔ &lt;first_name&gt;</span>
             </li>
